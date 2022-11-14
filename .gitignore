@@ -1,0 +1,5 @@
+*.dot
+*.bc
+*.ll
+*.s
+.DS_Store

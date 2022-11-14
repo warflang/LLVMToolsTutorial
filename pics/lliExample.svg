@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 584 308" width="584" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="73" rows="18"/>
+            <termtosvg:animation type="css"/>
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    
+            :root {
+                --animation-duration: 3866ms;
+            }
+
+            @keyframes roll {
+                0.000%{transform:translateY(0px)}
+10.864%{transform:translateY(-340px)}
+10.942%{transform:translateY(-680px)}
+31.893%{transform:translateY(-1020px)}
+37.222%{transform:translateY(-1360px)}
+37.351%{transform:translateY(-1700px)}
+60.036%{transform:translateY(-2040px)}
+65.184%{transform:translateY(-2380px)}
+67.486%{transform:translateY(-2720px)}
+71.624%{transform:translateY(-3060px)}
+74.108%{transform:translateY(-3400px)}
+74.133%{transform:translateY(-3740px)}
+100.000%{transform:translateY(-3740px)}
+            }
+
+            #screen_view {
+                animation-duration: 3866ms;
+                animation-iteration-count:infinite;
+                animation-name:roll;
+                animation-timing-function: steps(1,end);
+                animation-fill-mode: forwards;
+            }
+        ]]></style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    </defs>
+    <svg id="screen" width="584" height="306" viewBox="0 0 584 306" preserveAspectRatio="xMidYMin slice">
+    <rect class="background" height="100%" width="100%" x="0" y="0"/><defs><g id="g1"><text x="0" textLength="328" class="foreground">The default interactive shell is now zsh.</text></g><g id="g2"><text x="0" textLength="520" class="foreground">To update your account to use zsh, please run `chsh -s /bin/zsh`.</text></g><g id="g3"><text x="0" textLength="552" class="foreground">For more details, please visit https://support.apple.com/kb/HT208050.</text></g><g id="g4"><text x="0" textLength="80" class="foreground">bash-3.2$ </text><text x="80" textLength="8" class="background"> </text></g><g id="g5"><text x="0" textLength="200" class="foreground">bash-3.2$ $(brew --prefix</text><text x="200" textLength="8" class="background"> </text></g><g id="g6"><text x="0" textLength="376" class="foreground">bash-3.2$ $(brew --prefix llvm)/bin/lli exec.bc</text><text x="376" textLength="8" class="background"> </text></g><g id="g7"><text x="0" textLength="376" class="foreground">bash-3.2$ $(brew --prefix llvm)/bin/lli exec.bc</text></g><g id="g8"><text x="0" textLength="8" class="background"> </text></g><g id="g9"><text x="0" textLength="8" class="foreground">9</text></g><g id="g10"><text x="0" textLength="88" class="foreground">bash-3.2$ e</text><text x="88" textLength="8" class="background"> </text></g><g id="g11"><text x="0" textLength="96" class="foreground">bash-3.2$ ex</text><text x="96" textLength="8" class="background"> </text></g><g id="g12"><text x="0" textLength="104" class="foreground">bash-3.2$ exi</text><text x="104" textLength="8" class="background"> </text></g><g id="g13"><text x="0" textLength="112" class="foreground">bash-3.2$ exit</text><text x="112" textLength="8" class="background"> </text></g><g id="g14"><text x="0" textLength="112" class="foreground">bash-3.2$ exit</text></g><g id="g15"><text x="0" textLength="32" class="foreground">exit</text></g></defs><g id="screen_view"><g><use xlink:href="#g1" y="17"/><use xlink:href="#g2" y="34"/><use xlink:href="#g3" y="51"/><rect x="80" y="68" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="68"/></g><g><use xlink:href="#g1" y="357"/><use xlink:href="#g2" y="374"/><use xlink:href="#g3" y="391"/><rect x="200" y="408" width="8" height="17" class="foreground"/><use xlink:href="#g5" y="408"/></g><g><use xlink:href="#g1" y="697"/><use xlink:href="#g2" y="714"/><use xlink:href="#g3" y="731"/><rect x="376" y="748" width="8" height="17" class="foreground"/><use xlink:href="#g6" y="748"/></g><g><use xlink:href="#g1" y="1037"/><use xlink:href="#g2" y="1054"/><use xlink:href="#g3" y="1071"/><use xlink:href="#g7" y="1088"/><rect x="0" y="1105" width="8" height="17" class="foreground"/><use xlink:href="#g8" y="1105"/></g><g><use xlink:href="#g1" y="1377"/><use xlink:href="#g2" y="1394"/><use xlink:href="#g3" y="1411"/><use xlink:href="#g7" y="1428"/><use xlink:href="#g9" y="1445"/><rect x="0" y="1462" width="8" height="17" class="foreground"/><use xlink:href="#g8" y="1462"/></g><g><use xlink:href="#g1" y="1717"/><use xlink:href="#g2" y="1734"/><use xlink:href="#g3" y="1751"/><use xlink:href="#g7" y="1768"/><use xlink:href="#g9" y="1785"/><rect x="80" y="1802" width="8" height="17" class="foreground"/><use xlink:href="#g4" y="1802"/></g><g><use xlink:href="#g1" y="2057"/><use xlink:href="#g2" y="2074"/><use xlink:href="#g3" y="2091"/><use xlink:href="#g7" y="2108"/><use xlink:href="#g9" y="2125"/><rect x="88" y="2142" width="8" height="17" class="foreground"/><use xlink:href="#g10" y="2142"/></g><g><use xlink:href="#g1" y="2397"/><use xlink:href="#g2" y="2414"/><use xlink:href="#g3" y="2431"/><use xlink:href="#g7" y="2448"/><use xlink:href="#g9" y="2465"/><rect x="96" y="2482" width="8" height="17" class="foreground"/><use xlink:href="#g11" y="2482"/></g><g><use xlink:href="#g1" y="2737"/><use xlink:href="#g2" y="2754"/><use xlink:href="#g3" y="2771"/><use xlink:href="#g7" y="2788"/><use xlink:href="#g9" y="2805"/><rect x="104" y="2822" width="8" height="17" class="foreground"/><use xlink:href="#g12" y="2822"/></g><g><use xlink:href="#g1" y="3077"/><use xlink:href="#g2" y="3094"/><use xlink:href="#g3" y="3111"/><use xlink:href="#g7" y="3128"/><use xlink:href="#g9" y="3145"/><rect x="112" y="3162" width="8" height="17" class="foreground"/><use xlink:href="#g13" y="3162"/></g><g><use xlink:href="#g1" y="3417"/><use xlink:href="#g2" y="3434"/><use xlink:href="#g3" y="3451"/><use xlink:href="#g7" y="3468"/><use xlink:href="#g9" y="3485"/><use xlink:href="#g14" y="3502"/><rect x="0" y="3519" width="8" height="17" class="foreground"/><use xlink:href="#g8" y="3519"/></g><g><use xlink:href="#g1" y="3757"/><use xlink:href="#g2" y="3774"/><use xlink:href="#g3" y="3791"/><use xlink:href="#g7" y="3808"/><use xlink:href="#g9" y="3825"/><use xlink:href="#g14" y="3842"/><use xlink:href="#g15" y="3859"/><rect x="0" y="3876" width="8" height="17" class="foreground"/><use xlink:href="#g8" y="3876"/></g></g></svg>
+</svg>
